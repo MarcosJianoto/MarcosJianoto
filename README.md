@@ -1,7 +1,7 @@
 ##Olá, eu sou o Marcos Jianoto
 
 - 🔭Hoje trabalho com Design 3D
-- 🌱 Estou estudando JavaScript/Vue.js
+- 🌱 Estou estudando JavaScript/React
 - 👯 Pronouns: ele/dele
 
 <div align="center">
