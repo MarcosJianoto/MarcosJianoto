@@ -1,7 +1,7 @@
 ##Olá, eu sou o Marcos Jianoto
 
-- 🔭Hoje trabalho com Design 3D
-- 🌱 Estou estudando JavaScript/React
+- 🔭Hoje trabalho na Segware, onde realizo Deploys Android e iOS. 
+- 🌱 Estou estudando SQL/Java. 
 - 👯 Pronouns: ele/dele
 
 <div align="center">
