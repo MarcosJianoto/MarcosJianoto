@@ -1,8 +1,12 @@
-##Olá, eu sou o Marcos Jianoto
+## 👋 Olá! Sou o Marcos Jianoto
 
-- 🔭Hoje trabalho na Segware, onde realizo Deploys Android e iOS. 
-- 🌱 Estou estudando SQL/Java. 
-- 👯 Pronouns: ele/dele
+Desenvolvedor backend em formação, apaixonado por resolver problemas com código.
+Atualmente focado em Java, Spring Boot e boas práticas de APIs REST.
+
+### 🧩 Projetos em destaque
+- **Gerenciador de Senhas** - CRUD com Spring Boot + PostgreSQL
+- **Dashboard Financeiro** - Controle de gastos com autenticação e categorização
+- **Equilibria (em andamento)** - Monitoramento de hábitos e tarefas diárias
 
 <div align="center">
   <a href="https://github.com/MarcosJianoto">
