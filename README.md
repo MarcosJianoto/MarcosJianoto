@@ -8,11 +8,6 @@ Atualmente focado em Java, Spring Boot e boas práticas de APIs REST.
 - **Dashboard Financeiro** - Controle de gastos com autenticação e categorização
 - **Equilibria (em andamento)** - Monitoramento de hábitos e tarefas diárias
 
-<div align="center">
-  <a href="https://github.com/MarcosJianoto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosJianoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosJianoto&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcos-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
