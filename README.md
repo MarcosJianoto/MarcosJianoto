@@ -2,6 +2,7 @@
 
 Desenvolvedor backend em formação, apaixonado por resolver problemas com código.
 Atualmente focado em Java, Spring Boot e boas práticas de APIs REST.
+Além disso, tenho estudado Python e todas as suas funcionalidades voltado para Análise de Dados. 
 
 ### 🧩 Projetos em destaque
 - **Gerenciador de Senhas** - CRUD com Spring Boot + PostgreSQL
