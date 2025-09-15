@@ -1,12 +1,12 @@
 
-###👋 Olá! Sou o Marcos Jianoto
+### 👋 Olá! Sou o Marcos Jianoto
 
 Desenvolvedor Full Stack Java/React, apaixonado por criar soluções práticas e escaláveis.
 Atualmente atuo com Java, Spring Boot, React e React Native, desenvolvendo sistemas robustos e APIs RESTful.
 Também estudo Python voltado para Análise de Dados e novas tecnologias para ampliar minhas habilidades full-stack.
 
 
-###🧩 Projetos em destaque
+### 🧩 Projetos em destaque
 
 Gerenciador de Senhas – CRUD com Spring Boot + PostgreSQL, armazenamento seguro e organização de dados.
 
